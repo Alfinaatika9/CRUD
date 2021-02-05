@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T02:16:42.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="OOJ3HzsaEQ2lLSE9_gD8" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T02:23:29.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="HAzZ-O9kBvjFUwVn4pqZ" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="6Qgd49aoLaYLXQ6kaqjC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaU5ZDQIou1FokywF6je-5" target="IaU5ZDQIou1FokywF6je-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IaU5ZDQIou1FokywF6je-5" value="Driver LED" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="633" y="95" width="60" height="40" as="geometry" />
+        <mxCell id="IaU5ZDQIou1FokywF6je-5" value="Driver led Buck Converter" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="633" y="95" width="67" height="45" as="geometry" />
         </mxCell>
         <mxCell id="djrywHmmLSj5uBDKGQKu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaU5ZDQIou1FokywF6je-8" edge="1">
           <mxGeometry relative="1" as="geometry">
